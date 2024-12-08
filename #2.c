@@ -2,7 +2,7 @@
 #include <stdlib.h>
 // você consegue perceber o qual burro você está sendo ao nem a
 // ter a capacidade de enteder os próprios erros de escrita do seu code
-// eu ainda vou aprender a usar está linguagem, custe o que custar!!!
+// eu ainda vou aprender a usar está linguagem, custe o que custar!!!§
 
 
 int main()
